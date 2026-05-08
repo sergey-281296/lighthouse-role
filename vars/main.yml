@@ -1,0 +1,3 @@
+---
+lighthouse_nginx_config: /etc/nginx/sites-available/lighthouse
+lighthouse_enabled_link: /etc/nginx/sites-enabled/lighthouse
